@@ -1,7 +1,10 @@
 package Pilas;
 
 import java.util.Stack;
-
+//Andrés Manuel Flores Bonilla
+//Jimena Hernández Luna
+//Jorge Juárez Marcelo
+//Sebastián Gadiel Pérez Solano
 public class BuscadorPila {
     private int capacidad, cima;
     Stack<String> pila = new Stack<>();
